@@ -5,6 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class PlayerControls : MonoBehaviour
 {
+    //I loved coding and learning how to change games ito manipoulate what I worked on
+    //I want to upload a bunch of important projects here because I saw i onyl get aroiund 128gb of space in my code space. This is my second entry as a diary into the cloudspace. 
+    //I don't think anyone will ever read this section but I will in time put my chatgpt logs here to show how introspective I was or tried to be.
+    //I will possibly use the space to write about my life
+    //I may forget about the space entirely but I dontthink I will in the long term
+    //maybe this is all i wil write right now.
+    //I love coffee!
     public Rigidbody2D rb;
     float speed = 0.022f;
     public float maxVelocity;
