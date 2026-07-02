@@ -5,6 +5,18 @@ using UnityEngine.SceneManagement;
 
 public class PlayerControls : MonoBehaviour
 {
+    //I loved coding and learning how to change games ito manipoulate what I worked on
+    //I want to upload a bunch of important projects here because I saw i onyl get aroiund 128gb of space in my code space. This is my second entry as a diary into the cloudspace. 
+    //I don't think anyone will ever read this section but I will in time put my chatgpt logs here to show how introspective I was or tried to be.
+    //I will possibly use the space to write about my life
+    //I may forget about the space entirely but I dontthink I will in the long term
+    //maybe this is all i wil write right now.
+    //I love coffee!
+    //I want to make sure all of the games and things i submit here are run. Even if some of it requires returning to windows to run correctly or just to read my comments i find it important
+    //to point out that there is some value in windows coding even if it is not incredibly effecient in comparison to linux. I know that code spaces run in linux
+    //I will try to learn linux to put word documents and more classic diary application on linux but for now if I dont get there please at least open and read and see how my games helped create other small infinetesimly small
+    //universes where I could maybe fly, or relive moments, and get do overs =D 
+    //test change
     public Rigidbody2D rb;
     float speed = 0.022f;
     public float maxVelocity;
