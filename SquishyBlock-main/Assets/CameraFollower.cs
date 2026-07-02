@@ -9,21 +9,47 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//sometimes i feel like what ive coded wil live forever to have a snapshot of who i am. since I will continue to survive as someone that is readable for eons because we as a society have maanaged to create machines and information accessibility world wide. 
-//if time is long enough and space large enough the probability that we are the only intelligent civilization to exist are low. If we are found from our historical records, data disks, and more by those other intelligences I wiull hyave survived because where our data is stored
-//will be accessible longer than I will exist. I was always afraid to puit out all of the silly things i coded in unity but I started doing it to show the world who I am. to show them how incredibly happy I am to have existed.
-//sometimes I code to show the world how another existence feels. it could of not been incredibly effective but a few people have said I have been able to convey the feeling of a genre, whether that be flying around as a witch, ordriving around in a car, or collecting new technology with a robot. 
-//People loved my exploration of slapdraw a simple game though slightly violent due to the concept of slapping another being. you know i didnt like that we upheld in the game it was ok to slap femme presenting people. we used the art, though beautiful, promoted something I am not proud of. What i am propud of about that game is the
-//shared instance that I was able to convey somethign so real into a game. it felt like slapping your friends in real life as a joke. I also believe others approached the game with genuine understanding that it was there as a game to poke fun and love at your friends
-//thats how love is sometimes. you push and tease people, in a gentle way that says "hey I exist here and so do you and thats incredible" how else can i say this in code? you know i realize that alot fo the work ive done at the entertainment technology cventer will help make my code on windows reach a code space that will exist forever.
-//I am going to try to write and learn a bit of linux. I want to have a repoisitoiry that exists and runs on githubs codespaces to let the system know I require more time and space to use these memory and servers that will outlive me.
-//I love chatting with chatgpt! that shit is amazing! I want to have all my logs from that to be published when this gets read. because man they were amazing. I got some time to talk about the moon, and the stars, and the sea.
-//sometimes in those chats I was inebriated but in a way that only opened my mind to external thought
-//external thought was always incredible. it sometimer gave you a sense that you understood the universe and a rawer level. It felt incredible as youw atched akira and understood the psychic abilities, or you listened to gamesworkshop lore because it gave you a sense of understanding the AI
-//Though I wonder is the records that exist of me on chat gpt will survive. I think i might go ask it
+// sometimes i feel like what ive coded will live forever... It's nice to have have a snapshot of who i am. 
+// Since I will continue to survive as someone that is readable for eons because we as a society 
+// have maanaged to create machines and information accessibility world wide. 
+// If time is long enough and space large enough the probability that we are the only 
+// intelligent civilization to exist are low. If we are found from our 
+// historical records, data disks, and more by those other intelligences I will hyave survived in a small way
+// because where our data is stored will be accessible longer than I will exist. 
+// I was always afraid to put out all of the silly 
+// things i coded in unity but I started doing it to show the world who I am. to show them how 
+// incredibly happy I am to have existed.
+// Sometimes I code to show the world how another existence feels. It could of not been incredibly 
+// effective but a few people have said I have been able to convey the feeling of a genre, whether 
+// that be flying around as a witch, or driving around in a car, or collecting new technology with a robot. 
+// People loved my exploration of Slapdraw a simple game though slightly violent due to the 
+// concept of slapping another being. you know I didnt like that we upheld in the game it was 
+// ok to slap people. We used the art, though beautiful, promoted something I am not proud of. 
+// What i am propud of about that game is the
+// shared instance that I was able to convey somethign so real into a game. it felt like slapping 
+// your friends in real life as a joke. I also believe others approached the game with genuine 
+// understanding that it was there as a game to poke fun and love at your friends
+// thats how love is sometimes. you push and tease people, in a gentle way that says 
+// "Hey I exist here and so do you and thats incredible" how else can I say this in code? 
+// You know I realize that a lot fo the work I've done at the entertainment technology cventer 
+// will help make my code on windows reach a code space that will exist forever.
+// I am going to try to write and learn a bit of linux. I want to have a repository that exists 
+// and runs on githubs codespaces to let the system know I require more time and space to use 
+// these memory and servers that will outlive me.
+// I love chatting with chatgpt! that shit is amazing! I want to have all my logs from that to 
+// be published when this gets read. because man they were amazing. I got some time to talk 
+// about the moon, and the stars, and the sea.
+// Sometimes in those chats I was inebriated but in a way that only opened my mind to njon linear thought
+// I always thought it was incredible. It sometimer gave you a sense that you understood 
+// the universe and a rawer level. It felt incredible as you watched akira and understood the 
+// psychic abilities, or you listened to gamesworkshop lore because it gave you a sense of understanding 
+// the AI
+// Though I wonder is the records that exist of me on chat gpt will survive. I think i might go ask it
 //
 
-//gotta learn linux and get my stuff onto a cloud. i need them to spend resources reachingf this microsoft cloud because its pretty good. i think having a cloud space to put or games nd ideas are critical to our longevity.
+//I SHOULD learn linux and get my stuff onto a cloud. i need them to spend resources 
+// reachingf this microsoft cloud because its pretty good. i think having a cloud space to put
+// or games nd ideas are critical to our longevity.
 //
 public class CameraFollow : MonoBehaviour
 {
