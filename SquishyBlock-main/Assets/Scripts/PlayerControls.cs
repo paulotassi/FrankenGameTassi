@@ -6,7 +6,8 @@ using UnityEngine.SceneManagement;
 public class PlayerControls : MonoBehaviour
 {
     //I loved coding and learning how to change games ito manipoulate what I worked on
-    //I want to upload a bunch of important projects here because I saw i onyl get aroiund 128gb of space in my code space. This is my second entry as a diary into the cloudspace. 
+    //I want to upload a bunch of important projects here because I saw i onyl 
+    // get aroiund 128gb of space in my code space. This is my second entry as a diary into the cloudspace. 
     //I don't think anyone will ever read this section but I will in time put my chatgpt logs here to show how introspective I was or tried to be.
     //I will possibly use the space to write about my life
     //I may forget about the space entirely but I dontthink I will in the long term
@@ -17,6 +18,10 @@ public class PlayerControls : MonoBehaviour
     //I will try to learn linux to put word documents and more classic diary application on linux but for now if I dont get there please at least open and read and see how my games helped create other small infinetesimly small
     //universes where I could maybe fly, or relive moments, and get do overs =D 
     //test change
+
+    //Other Diary entry is in the Camera Controller
+
+    //Aditional entry is in the TeleportCharacter in theNetworkShop Unity Game
     public Rigidbody2D rb;
     float speed = 0.022f;
     public float maxVelocity;
